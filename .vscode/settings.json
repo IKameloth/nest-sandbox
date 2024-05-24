@@ -1,0 +1,19 @@
+{
+  "editor.fontFamily": "'Victor Mono'",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "editor.fontLigatures": true,
+  "editor.fontWeight": "normal",
+  "editor.minimap.enabled": false,
+  "explorer.confirmDelete": false,
+  "editor.fontSize": 16,
+  "editor.tabSize": 2,
+  "window.zoomLevel": 1,
+  "editor.formatOnSave": true,
+  "editor.guides.bracketPairs": true,
+  "workbench.activityBar.location": "hidden",
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "explorer.confirmDragAndDrop": false,
+  "workbench.startupEditor": "none"
+}
